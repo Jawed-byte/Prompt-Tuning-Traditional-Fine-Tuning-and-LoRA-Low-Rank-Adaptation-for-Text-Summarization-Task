@@ -1,6 +1,3 @@
-### Advanced NLP
-#### Assignment 3
-
 1. Drive link for soft-prompt model: https://drive.google.com/file/d/1KQMGQAt867Gj3icbRd5ajACnbIzWSkPG/view?usp=sharing
 
 2. Drive link for lora fine tunned model: https://drive.google.com/file/d/1_Ixp702mxQztmsU8_NniFk84Vqy205Ei/view?usp=sharing
